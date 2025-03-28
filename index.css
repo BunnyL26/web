@@ -1,0 +1,24 @@
+body {
+    background: white;
+    }
+   .login {
+     position:relative;
+     top:70x;
+     left:40px;
+     border-radius:10px;
+     display:flex;
+     align-item:center;
+     flex-direction: column;
+     justify-content: center;
+     width:200px;
+     height:200px;
+     gap:20px;
+  background-color:deeppink;
+   }
+   .login button{
+     background:skyblue;
+     width:125px;
+   padding-left: %;
+     align-content: center;   
+   }
+    

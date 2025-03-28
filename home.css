@@ -1,0 +1,11 @@
+table,td,th{
+    border:black solid;
+    border-collapse:collapse;
+   }
+   th,td{
+     padding:20px;
+     background:skyblue;
+   }
+   th {
+     color: orangered;
+   }
